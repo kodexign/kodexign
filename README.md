@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 About Me:
-- My name is Kalia Xiong.
-- Pronouns: She/Her
-- Transitioning into Software Development
+<br> My name is Kalia Xiong.
+<br> Pronouns: She/Her
+<br> Transitioning into Software Development
 
 Technical Skills:
-- Front 🔚: React, JavaScript, HTML, CSS, Material UI, Redux
-- 🔙🔚: Node.js, Express, PostgreSQL, Redux-Saga
-- Tools & Libraries: Git, GitHub, Postman
+<br>Front-end: React, JavaScript, HTML, CSS, Material UI, Redux
+<br>back-end: Node.js, Express, PostgreSQL, Redux-Saga
+<br>Tools & Libraries: Git, GitHub, Postman
 
--  🔭 I’m currently working on updating my solo project and a creating a personal page.
-- 🌱 I’m currently learning more Javascript and front-end development
-- 🔍 Would like to learn python and more back-end development for better understanding
+<br>  🔭 I’m currently working on updating my solo project and a creating a personal page.
+<br> 🌱 I’m currently learning more Javascript and front-end development
+<br> 🔍 Would like to learn python and more back-end development for better understanding
   
 ⚡ Fun facts: 
 <br>📚 Enjoy reading and going on long walks. 
