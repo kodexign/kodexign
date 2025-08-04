@@ -34,4 +34,4 @@ Technical Skills:
 <br>✈Traveling when I can afford it. 
 <br>🍙 eating yummy food! 
 <br>🎨Crafting and stationary enthusiast (possibly borderline collector or hoarder).
-<br>🏸 Playing badmin
+<br>🏸 Playing badminton
