@@ -30,8 +30,8 @@ Technical Skills:
 - 🔍 Would like to learn python and more back-end development for better understanding
   
 ⚡ Fun facts: 
--📚 Enjoy reading and going on long walks. 
-✈Traveling when I can afford it. 
-🍙 eating yummy food! 
-🎨Crafting and stationary enthusiast (possibly borderline collector or hoarder).
-🏸 Playing badmin
+<br>📚 Enjoy reading and going on long walks. 
+<br>✈Traveling when I can afford it. 
+<br>🍙 eating yummy food! 
+<br>🎨Crafting and stationary enthusiast (possibly borderline collector or hoarder).
+<br>🏸 Playing badmin
