@@ -29,9 +29,3 @@ Technical Skills:
 <br> 🌱 I’m currently learning more Javascript and front-end development
 <br> 🔍 Would like to learn python and more back-end development for better understanding
   
-⚡ Fun facts: 
-<br>📚 Enjoy reading and going on long walks. 
-<br>✈Traveling when I can afford it. 
-<br>🍙 eating yummy food! 
-<br>🎨Crafting and stationary enthusiast (possibly borderline collector or hoarder).
-<br>🏸 Playing badminton
